@@ -1,5 +1,5 @@
 # Playwright Framework
-This repository contains playwright framework for ui/api test autmation
+This repository contains playwright framework for ui/api test autmation using TypeScript
 
 ## Usage
 
