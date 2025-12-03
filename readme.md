@@ -83,7 +83,7 @@ How do you design automation to handle this while ensuring reliability?
 - Answer: Use Dynamic Test Data Generators with unique ids or random numbers, delete data created using tear down at the end,
 so that when we run tests next, it should not create problems. Use APIs to create and delete in setup and tear down
 
-3.Tests run fine locally but fail in Docker/CI due to selector issues. How do you debug and resolve environment-specific automation issues?
+3. Tests run fine locally but fail in Docker/CI due to selector issues. How do you debug and resolve environment-specific automation issues?
 - Answer: Always create stable locator, avoid week locators, we can capture screenshot on failure, videos, that helps in debugging, 
 check for any rendering issues or resolution. Run in CI with headed mode visusalize and fix.
 
