@@ -3,7 +3,7 @@ This repository contains playwright framework for ui/api test autmation using Ty
 
 ## Usage
 
-- Download and install in your system follow https://nodejs.org/en/download.
+- Download and install node js in your system follow https://nodejs.org/en/download.
 - Clone the repository and install dependencies using `npm install`.
 - Run tests using `npm test`.
 - View test reports in the `playwright-report` directory.
