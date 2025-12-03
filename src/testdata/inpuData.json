@@ -1,0 +1,17 @@
+{
+  "textData": {
+    "valid": "Playwright Automation",
+    "invalid": "@@##$$%%",
+    "empty": ""
+  },
+  "numberData": {
+    "valid": "123",
+    "invalid": "abc",
+    "negative": "-55"
+  },
+  "dropdownData": {
+    "valid": "Option 2",
+    "validval": "2",
+    "invalid": "Option99"
+  }
+}

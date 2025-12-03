@@ -1,0 +1,8 @@
+{
+  "message": "Note successfully updated",
+  "data": {
+    "id": "123",
+    "title": "New Title",
+    "description": "Updated Desc"
+  }
+}

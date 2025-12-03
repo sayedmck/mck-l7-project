@@ -1,0 +1,9 @@
+{
+    "message": "Note retrieved successfully",
+    "data": {
+      "id": "123",
+      "title": "My Note",
+      "description": "One note only"
+    }
+  }
+  
